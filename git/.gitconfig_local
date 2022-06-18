@@ -1,0 +1,11 @@
+[core]
+	ignorecase = false
+	hookspath = .
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[commit]
+	gpgsign = false
+[user]
+	name = hhow09
+	email = hhow09@gmail.com

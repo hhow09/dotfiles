@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"0x0",
+		"AutoFileName",
+		"BetterFindBuffer",
+		"Clickable URLs",
+		"ClickableRequires",
+		"Focus File on Sidebar",
+		"Git",
+		"GitGutter",
+		"HighlightWords",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
+		"MarkdownPreview",
+		"Package Control",
+		"rainbow_csv",
+		"Tabnine",
+		"Terminus",
+		"TypeScript",
+	],
+}

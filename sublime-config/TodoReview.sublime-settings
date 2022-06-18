@@ -1,0 +1,11 @@
+{
+	"patterns": {
+		"TODO": "TODO"
+	},
+	"exclude_folders": [
+		"*.git*",
+		"*node_modules*"
+	],
+	"resolve_symlinks": false,
+	"case_sensitive": true,
+}

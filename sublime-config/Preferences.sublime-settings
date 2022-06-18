@@ -1,0 +1,11 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"terminal": "iTerm2-v3.sh",
+    "parameters": ["--open-in-tab"],
+    "font_size": 15,
+    "ui_scale": 1.2,
+	"auto_complete": true,
+}
